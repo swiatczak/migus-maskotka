@@ -19,4 +19,5 @@ Use this page as a hub to browse all project documents on GitHub.
 - [Gauge and scaling guide](sizing/gauge_and_scaling.md)
 
 ## Images (prompts)
+- [Image index](images/index.md)
 - [Master prompts (photos + diagrams)](images/prompts_master.md)
