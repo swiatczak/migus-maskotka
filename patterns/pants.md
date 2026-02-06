@@ -24,7 +24,7 @@ Join legs with legs facing same direction.
 | Rnd | Instruction | Sts |
 |---:|---|---:|
 | 12 | sc around leg 2 (10), ch 2, sc around leg 1 (10), ch 2 | 24 |
-| 13 | sc around (include chains as stitches) | 24 |
+| 13 | sc around **including chains as stitches** (sc 2 into each ch-2 bridge) | 24 |
 | 14–16 | sc around | 24 |
 | 17 | (sc 10, dec) x2 | 22 |
 | 18–19 | sc around | 22 |
@@ -32,6 +32,9 @@ Join legs with legs facing same direction.
 | 21–22 | sc around | 20 |
 
 Fasten off. Optional: add drawstring with surface slip stitches.
+
+Marker / round-start tip (prevents the join from drifting):
+- After the last `ch 2` of Round 12, make the **first sc into leg 2** to start Round 13 and place your marker in that stitch.
 
 ## Keychain mini
 Use scaling factor ~0.75–0.85 of Standard counts depending on your gauge.
@@ -43,19 +46,22 @@ A reliable mini version:
 |---:|---|---:|
 | 1 | MR 6 | 6 |
 | 2 | inc x6 | 12 |
-| 3–6 | sc around | 12 |
-| 7 | (sc 3, dec) x2 | 10 |
-| 8–9 | sc around | 10 |
+| 3–5 | sc around | 12 |
+| 6 | (sc, dec) x4 | 8 |
+| 7–8 | sc around | 8 |
 
 ### Join + body
 
 | Rnd | Instruction | Sts |
 |---:|---|---:|
-| 10 | sc around leg 2 (10), ch 1, sc around leg 1 (10), ch 1 | 22 |
-| 11 | sc around | 22 |
-| 12–13 | sc around | 22 |
-| 14 | (sc 9, dec) x2 | 20 |
-| 15–16 | sc around | 20 |
+| 9 | sc around leg 2 (8), ch 1, sc around leg 1 (8), ch 1 | 18 |
+| 10 | sc around **including chains as stitches** (sc 1 into each ch-1 bridge) | 18 |
+| 11–12 | sc around | 18 |
+| 13 | (sc 7, dec) x2 | 16 |
+| 14–15 | sc around | 16 |
+
+Mini sizing note:
+- This mini waistband (18/16) matches the **mini torso widest = 18** in `patterns/body.md`.
 
 ---
 

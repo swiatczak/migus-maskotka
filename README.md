@@ -7,6 +7,7 @@
   - [Pants pattern](patterns/pants.md)
   - [Hair pattern](patterns/hair.md)
   - [Baseball cap pattern](patterns/baseball_cap.md)
+  - [Stitch/count review](patterns/COUNT_REVIEW.md)
   - [Booklet structure](booklet/structure.md)
   - [Gauge and scaling](sizing/gauge_and_scaling.md)
   - [Image prompts](images/prompts_master.md)

@@ -20,6 +20,7 @@
 - Order: pants → torso → head/hair → cap
 - Photo prompts for stitching joins
 - Quality checklist (symmetry, stuffing, tension)
+- Stitch/count validation notes (patterns/COUNT_REVIEW.md)
 
 ## Standardized prompt footer
 Use the same footer across all image prompts for consistency.

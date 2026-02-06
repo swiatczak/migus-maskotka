@@ -37,31 +37,66 @@ Define 3 consistent lock lengths:
 Adjust chain count by your yarn/hook to match the reference silhouette.
 
 ## Attachment zones (Standard 30-st cap)
-We split the edge into zones:
-- **Fringe:** front 18 sts
-- **Crown layer 1 band:** next 24 sts behind fringe (overlapping placement, attach into R5/R6)
-- **Crown layer 2 fill:** back/top fill, attach into R6/R7
+Locks are attached in **layers** to different rounds so the counts stay consistent and the hair looks fuller.
 
-### Fringe (18 sts)
-Attach yarn at front-left of the fringe zone.
-For each of 18 stitches: sl st into stitch, ch B/C, sl st back into same stitch (loop).
+Before attaching locks:
+1. Put the cap on the head and pin it in place.
+2. Choose your **front center** (above the nose/eyes).
+3. On the last round of the cap, count stitches to mark a **front 18‑st span** for the fringe.
+
+### Layer map (Standard)
+- **Layer A (edge / fringe + edge filler):** attach into **Rnd 7** (30 sts total)
+- **Layer B (crown sweep):** attach into **Rnd 6** (place 24 locks)
+- **Layer C (top/back fill):** attach into **Rnd 5** (place 16 locks)
+
+### Layer A — Edge (Rnd 7, 30 sts total)
+Attach **one lock per stitch** around the edge: **18 fringe + 12 edge filler = 30**.
+
+Lock method (loop lock):
+- sl st into stitch
+- ch A/B/C (per the sequence)
+- sl st back into the same stitch to form a loop
+
+#### A1) Fringe (18 sts)
+Work across the marked front 18 stitches.
 Suggested sequence (18):
 - C, C, B, B, C, B, B, C, C, B, B, C, B, B, C, C, B, B
 
-### Crown layer 1 (24 sts, swept right→left)
-Attach loops so they overlap like shingles.
+#### A2) Side + nape edging (12 sts total)
+Work the remaining 12 edge stitches (the back half).
+Suggested distribution (12):
+- Right side: 3×A
+- Nape: 6×A (swap the 1st + last nape locks to **B** if you want more bulk at the corners)
+- Left side: 3×A
+
+### Layer B — Crown sweep (Rnd 6, 24 locks)
+Attach loops so they overlap like shingles, sweeping right → left.
+
+Placement:
+- Skip the **front 6 stitches** of Rnd 6 (to avoid a bulky “bowl cut” over the fringe).
+- Attach locks into the **next 24 stitches** around (24 placements).
+
 Suggested sequence (24): mostly B with some C:
 - B, B, C, B, B, B, C, B, B, B, C, B, B, B, C, B, B, B, C, B, B, B, B, C
 
-### Crown layer 2 (back fill, 30 sts placement area)
-Attach shorter A/B loops near nape; keep density moderate:
-- 20×A + 10×B distributed evenly
+### Layer C — Top/back fill (Rnd 5, 16 locks)
+Optional but recommended for the “shaggy” look.
 
-## Side + nape edging
-Along lower edge excluding fringe:
-- Right side: 8 sts → A
-- Nape: 14 sts → A (place 2×B near corners)
-- Left side: 8 sts → A
+Placement:
+- Attach **16 locks** into Rnd 5, spaced roughly evenly over the top/back (not the very front).
+
+Suggested mix:
+- 12×A + 4×B (use more B if you want a fuller crown)
+
+## Keychain mini notes (24-st cap)
+Use the same layering idea, scaled down:
+- **Layer A (edge / Rnd 6):** 24 locks total = **fringe 14 + edge filler 10**
+- **Layer B (Rnd 5):** 18 locks (skip the front 4 sts)
+- **Layer C (Rnd 4):** 12 locks (top/back only, optional)
+
+Mini edge distribution example (Rnd 6):
+- Fringe: 14 (use B/C)
+- Remaining 10: Right 2×A, Nape 6×A (swap corners to B), Left 2×A
 
 ---
 
