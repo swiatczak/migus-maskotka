@@ -9,6 +9,9 @@ Use this page as a hub to browse all project documents on GitHub.
 - [Baseball cap](patterns/baseball_cap.md)
 - [Stitch/count review (validation notes)](patterns/COUNT_REVIEW.md)
 
+## Assembly & posing
+- [Sitting figure instructions (pants-first workflow)](body/sitting_body_instructions.md)
+
 ## Booklet
 - [Booklet structure / outline](booklet/structure.md)
 

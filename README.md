@@ -8,6 +8,7 @@
   - [Hair pattern](patterns/hair.md)
   - [Baseball cap pattern](patterns/baseball_cap.md)
   - [Stitch/count review (validation notes)](patterns/COUNT_REVIEW.md)
+  - [Sitting figure instructions](body/sitting_body_instructions.md)
   - [Booklet structure](booklet/structure.md)
   - [Gauge and scaling](sizing/gauge_and_scaling.md)
   - [Image prompts](images/prompts_master.md)
