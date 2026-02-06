@@ -5,6 +5,7 @@
 - Use firm stuffing and keep stitch tension tight.
 
 ## Standard torso (2.5 mm, DK)
+
 | Rnd | Instruction | Sts |
 |---:|---|---:|
 | 1 | MR 6 | 6 |
@@ -20,6 +21,7 @@
 Stuff firmly before closing. Fasten off.
 
 ## Keychain mini torso (2.0 mm)
+
 | Rnd | Instruction | Sts |
 |---:|---|---:|
 | 1 | MR 6 | 6 |

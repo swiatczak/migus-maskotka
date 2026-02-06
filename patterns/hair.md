@@ -6,6 +6,7 @@
 - Keep direction consistent (right-to-left sweep for crown).
 
 ## Hair cap (Standard)
+
 | Rnd | Instruction | Sts |
 |---:|---|---:|
 | 1 | MR 6 | 6 |
@@ -18,6 +19,7 @@
 Fasten off with a tail for positioning.
 
 ## Hair cap (Keychain mini)
+
 | Rnd | Instruction | Sts |
 |---:|---|---:|
 | 1 | MR 6 | 6 |

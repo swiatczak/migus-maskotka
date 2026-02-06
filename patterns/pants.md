@@ -7,6 +7,7 @@
 
 ## Standard (2.5 mm, DK)
 ### Leg (make 2)
+
 | Rnd | Instruction | Sts |
 |---:|---|---:|
 | 1 | MR 6 | 6 |
@@ -37,6 +38,7 @@ Use scaling factor ~0.75–0.85 of Standard counts depending on your gauge.
 A reliable mini version:
 
 ### Leg (make 2)
+
 | Rnd | Instruction | Sts |
 |---:|---|---:|
 | 1 | MR 6 | 6 |
@@ -46,6 +48,7 @@ A reliable mini version:
 | 8–9 | sc around | 10 |
 
 ### Join + body
+
 | Rnd | Instruction | Sts |
 |---:|---|---:|
 | 10 | sc around leg 2 (10), ch 1, sc around leg 1 (10), ch 1 | 22 |

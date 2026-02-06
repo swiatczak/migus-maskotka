@@ -6,6 +6,7 @@
 
 ## Crown (worked in continuous rounds)
 ### Standard size (2.5 mm)
+
 | Rnd | Instruction | Sts |
 |---:|---|---:|
 | 1 | MR 6 | 6 |
@@ -19,6 +20,7 @@
 Fasten off with a long tail for sewing brim.
 
 ### Keychain mini (2.0 mm) – quick table
+
 | Rnd | Instruction | Sts |
 |---:|---|---:|
 | 1 | MR 6 | 6 |
