@@ -34,3 +34,8 @@ photorealistic crochet texture, soft studio lighting, clean white background, sh
 - Closing decreases
 - Torso + pants fit
 - Decrease map diagram
+
+## Head + assembly diagrams
+- Flat crochet round diagram of head (R1-R19)
+- Exploded alignment of head, torso, and limbs
+- Side-view proportion diagram (head height = torso height)

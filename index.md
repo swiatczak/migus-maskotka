@@ -4,9 +4,13 @@ Use this page as a hub to browse all project documents on GitHub.
 
 ## Patterns
 - [Body](patterns/body.md)
+- [Head](patterns/head.md)
+- [Limbs](patterns/limbs.md)
 - [Pants](patterns/pants.md)
 - [Hair](patterns/hair.md)
 - [Baseball cap](patterns/baseball_cap.md)
+- [Mini scale notes](patterns/mini_scale.md)
+- [Diagram prompts](patterns/diagram_prompts.md)
 - [Stitch/count review (validation notes)](patterns/COUNT_REVIEW.md)
 
 ## Assembly & posing

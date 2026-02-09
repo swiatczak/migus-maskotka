@@ -4,9 +4,13 @@
 - [Documentation index](index.md)
 - Quick links:
   - [Body pattern](patterns/body.md)
+  - [Head pattern](patterns/head.md)
+  - [Limbs pattern](patterns/limbs.md)
   - [Pants pattern](patterns/pants.md)
   - [Hair pattern](patterns/hair.md)
   - [Baseball cap pattern](patterns/baseball_cap.md)
+  - [Mini scale notes](patterns/mini_scale.md)
+  - [Diagram prompts](patterns/diagram_prompts.md)
   - [Stitch/count review (validation notes)](patterns/COUNT_REVIEW.md)
   - [Sitting figure instructions](body/sitting_body_instructions.md)
   - [Booklet structure](booklet/structure.md)

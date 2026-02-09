@@ -2,7 +2,7 @@
 
 Reference image used: `images/body/crocheted-amigurumi-doll-keychain.png`
 
-![Reference keychain doll](../../images/body/crocheted-amigurumi-doll-keychain.png)
+![Reference keychain doll](../images/body/crocheted-amigurumi-doll-keychain.png)
 
 Assumptions for math checks:
 - US terms; worked in **continuous rounds** unless stated.
@@ -14,10 +14,14 @@ Assumptions for math checks:
 | File | Section | Table math | Integration / notes |
 |---|---|---:|---|
 | `baseball_cap.md` | Crown + brim | ✅ | Brim attachment span matches final brim width. |
+| `head.md` | Standard head (R0-R19) | ✅ | Symmetric increase/decrease sphere; eye placement note is clear. |
+| `limbs.md` | Arms + legs | ✅ | Arm and leg shaping rounds are count-correct in both decrease rounds. |
 | `body.md` | Torso (Std + mini) | ✅ | Pattern closes to 6 sts; if this is a **torso**, you likely want an opening for joining to head/legs. |
-| `pants.md` | Legs + join + waist | ✅ (counts), ⚠️ (clarity) | Join round is count-correct but needs clearer “where round starts” + chain-bridge handling. Mini waist (22/20) does **not** match mini torso widest (18). |
+| `pants.md` | Legs + join + waist | ✅ (counts), ⚠️ (clarity) | Join round is count-correct but needs clearer “where round starts” + chain-bridge handling. |
 | `hair.md` | Hair cap | ✅ | Cap rounds/counts are fine. |
 | `hair.md` | Attachment zones | ✅ | Zones are now defined by **layer/round**, so totals stay consistent. |
+| `mini_scale.md` | Mini limits and integration | ✅ | Mini torso max is aligned to `body.md` (18 sts) for repo consistency. |
+| `diagram_prompts.md` | Diagram specification list | N/A | Prompts are non-numeric; coverage includes head rounds, assembly alignment, and proportions. |
 
 ---
 
@@ -120,6 +124,53 @@ This keeps totals consistent and matches how the locks are physically layered on
 
 ---
 
+## `head.md` — Head counts
+
+### Standard head (max 42)
+- R0-R6: 6 → 12 → 18 → 24 → 30 → 36 → 42 ✅
+- R7-R13: even rounds at 42 ✅
+- R14-R19: 36 → 30 → 24 → 18 → 12 → 6 ✅
+
+Count logic:
+- Increase phase uses 6 increases per round through R6.
+- Decrease phase mirrors the same cadence back to 6.
+
+---
+
+## `limbs.md` — Arms + legs counts
+
+### Arms (max 9)
+- R0-R1: 6 → 9 ✅
+- R2-R5: even rounds at 9 ✅
+- R6: `(sc, dec) x3` gives 6 ✅
+- R7-R11: even rounds at 6 ✅
+
+### Legs (max 18)
+- R0-R2: 6 → 12 → 18 ✅
+- R3: 18 ✅
+- R4: `(4 sc, dec) x3` gives 15 ✅
+- R5: 15 ✅
+- R6: `(3 sc, dec) x3` gives 12 ✅
+- R7-R11: even rounds at 12 ✅
+
+---
+
+## `mini_scale.md` + `diagram_prompts.md` — Review notes
+
+### `mini_scale.md`
+- Mini head max 36 is a valid downscale target from the standard head.
+- Mini torso max is set to 18 to match `body.md` and mini pants integration in `pants.md` ✅
+- "Reduce straight rounds" guidance is qualitative and compatible with current mini pattern structure.
+
+### `diagram_prompts.md`
+- Prompt list is concise and production-usable for:
+  - head round map (R1-R19),
+  - exploded alignment (head/torso/limbs),
+  - side proportion check (head:torso = 1:1 by height).
+- No stitch math to validate; prompts are conceptually aligned with pattern set.
+
+---
+
 ## Reference image → “full figure” vs “miniature” guidance (count implications)
 
 The reference is a **mini keychain** seated doll (short torso, compact legs, oversized head).
@@ -131,7 +182,7 @@ To keep the same *style* in a larger “full figure”:
 
 To keep the mini closer to the reference:
 - Shorten legs (fewer straight rounds) and keep the torso compact.
-- Ensure pants waist and torso widest match (see mini mismatch in `pants.md` vs `body.md`).
+- Ensure pants waist and torso widest stay aligned (current repo mini baseline uses 18-st joins/waist transitions).
 
 Seated vs standing (important for “looks like the photo”):
 - The photo’s legs are visually **bent** and the feet are prominent; `pants.md` produces straight tubes.
