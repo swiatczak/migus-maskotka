@@ -55,3 +55,24 @@ Fasten off.
 ## Fit check
 - Standard shirt should sit over the torso 24-st widest area and taper at upper chest.
 - If your gauge is loose, add one extra plain round before the first decrease round.
+
+---
+
+## Image prompts (4) + 2 diagrams
+1) Shirt tube with armholes formed
+- Prompt: Overhead photo of a crocheted red amigurumi T-shirt tube in progress with two armhole openings formed by chain spaces, stitch marker visible at round start. photorealistic crochet texture, soft studio lighting, clean white background, shallow depth of field, ultra-detailed yarn stitches, professional crochet pattern photography, no text, no watermark, square format, print-ready.
+
+2) Sleeve edging close-up
+- Prompt: Macro photo of short sleeve edging being crocheted directly into an armhole opening on a small amigurumi shirt, even stitches and neat edge visible. photorealistic crochet texture, soft studio lighting, clean white background, shallow depth of field, ultra-detailed yarn stitches, professional crochet pattern photography, no text, no watermark, square format, print-ready.
+
+3) Finished shirt flat lay
+- Prompt: Studio flat-lay photo of a finished crocheted amigurumi T-shirt with clear neck opening, short sleeves, and slight taper from hem to upper body. photorealistic crochet texture, soft studio lighting, clean white background, shallow depth of field, ultra-detailed yarn stitches, professional crochet pattern photography, no text, no watermark, square format, print-ready.
+
+4) Shirt worn on doll torso
+- Prompt: Front-view photo of an amigurumi doll torso wearing a fitted crocheted T-shirt, showing clean armhole and neck shaping and proper fit at chest and waist. photorealistic crochet texture, soft studio lighting, clean white background, shallow depth of field, ultra-detailed yarn stitches, professional crochet pattern photography, no text, no watermark, square format, print-ready.
+
+Diagram A (armhole construction)
+- Prompt: Crochet construction diagram showing one round with chain-skip armholes on a 24-stitch shirt body, top-down layout, clean line art, no text in image. photorealistic crochet texture, soft studio lighting, clean white background, shallow depth of field, ultra-detailed yarn stitches, professional crochet pattern photography, no text, no watermark, square format, print-ready.
+
+Diagram B (fit zones map)
+- Prompt: Front-view schematic of amigurumi shirt indicating hem, chest, armholes, and neck opening proportions, clean line art, no text in image. photorealistic crochet texture, soft studio lighting, clean white background, shallow depth of field, ultra-detailed yarn stitches, professional crochet pattern photography, no text, no watermark, square format, print-ready.

@@ -28,6 +28,30 @@ photorealistic crochet texture, soft studio lighting, clean white background, sh
 - 24-st band diagram
 - Side/nape edging diagram
 
+## Ears
+- Single ear after final round
+- Pair of ears pinned on head
+- Sewing ear edge to head
+- Finished head with attached ears
+- Diagram ear stitch map
+- Diagram head placement map
+
+## T-shirt
+- Shirt tube with armholes formed
+- Sleeve edging close-up
+- Finished shirt flat lay
+- Shirt worn on doll torso
+- Diagram armhole construction
+- Diagram fit zones map
+
+## Backpack
+- Backpack body after base and side rounds
+- Flap worked in rows
+- Straps attachment step
+- Finished backpack on doll
+- Diagram oval base stitch map
+- Diagram back placement + strap path
+
 ## Body
 - Torso mid-rounds
 - Stuffing
