@@ -11,6 +11,7 @@ Use this page as a hub to browse all project documents on GitHub.
 - [T-shirt](patterns/tshirt.md)
 - [Hair](patterns/hair.md)
 - [Baseball cap](patterns/baseball_cap.md)
+- [Baseball cap cup (5 vertical color sectors)](patterns/cap/cup-5-sectors.md)
 - [Backpack](patterns/backpack.md)
 - [Mini scale notes](patterns/mini_scale.md)
 - [Diagram prompts](patterns/diagram_prompts.md)

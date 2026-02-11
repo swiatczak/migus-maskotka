@@ -11,6 +11,7 @@
   - [T-shirt pattern](patterns/tshirt.md)
   - [Hair pattern](patterns/hair.md)
   - [Baseball cap pattern](patterns/baseball_cap.md)
+  - [Baseball cap cup (5 vertical color sectors)](patterns/cap/cup-5-sectors.md)
   - [Backpack pattern](patterns/backpack.md)
   - [Mini scale notes](patterns/mini_scale.md)
   - [Diagram prompts](patterns/diagram_prompts.md)

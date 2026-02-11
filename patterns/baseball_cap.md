@@ -1,5 +1,7 @@
 # Pattern: Baseball Cap (Standard + Keychain)
 
+See also: [Baseball Cap Cup — 5 Vertical Color Sectors](cap/cup-5-sectors.md)
+
 ## Yarn & tools
 - DK cotton, hook 2.5 mm (Standard) / 2.0 mm (Keychain)
 - Stitch marker (continuous rounds)
